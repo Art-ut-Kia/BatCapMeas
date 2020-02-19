@@ -11,4 +11,4 @@ When the battery voltage reaches 3.0V, the transistor is blocked by the arduino 
 
 For details, have a look [here in the wiki](https://github.com/Art-ut-Kia/BatCapMeas/wiki).
 
-You can also run online simulations (in your browser) thanks to [tinkercad](https://www.tinkercad.com/things/fODc21Yx3Dx-batcapmeas-battery-capacity-measurement)
+You can also run online simulations (in your browser) thanks to [tinkercad](https://www.tinkercad.com/things/fODc21Yx3Dx)
