@@ -10,3 +10,5 @@ The measurements are logged in the serial monitor of the arduino IDE.
 When the battery voltage reaches 3.0V, the transistor is blocked by the arduino to disconnect the charge. This avoids to damage the battery because of a too deep discharge, and it saves a boaring human monitoring of the measurement process.
 
 For details, have a look [here in the wiki](https://github.com/Art-ut-Kia/BatCapMeas/wiki).
+
+You can also run online simulations (in your browser) thanks to [tinkercad](https://www.tinkercad.com/things/fODc21Yx3Dx-batcapmeas-battery-capacity-measurement)
